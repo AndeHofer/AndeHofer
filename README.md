@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [liklihood](../../../likelihood), a react exercise project
+- 🔭 I’m currently working on [likelihood](../../../likelihood), a react exercise project
 - 🌱 I’m currently learning react
 - 📫 How to reach me: andehofer@gmail.com
 
