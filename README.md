@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a react playground project
+- 🔭 I’m currently working on [liklihood]
 - 🌱 I’m currently learning react
 - 📫 How to reach me: andehofer@gmail.com
 
