@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a react playground project
 - 🌱 I’m currently learning react
 - 📫 How to reach me: andehofer@gmail.com
