@@ -2,6 +2,6 @@
 
 - 🔭 I worked some time ago on [likelihood](../../../likelihood), a react exercise project, laugh at the results here: [likelihood page](https://andehofer.github.io/likelihood)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndeHofer)](https://github.com/AndeHofer/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndeHofer)](https://github.com/anuraghazra/github-readme-stats)
 
 
