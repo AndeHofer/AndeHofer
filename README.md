@@ -13,7 +13,7 @@ just doodeling around with some stuff I am short term interested...
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring boot,jsf,postgres" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 <hr>
