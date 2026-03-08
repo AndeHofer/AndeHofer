@@ -1,19 +1,14 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{AndeHofer}/count.svg" alt="Visitor's Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=AndeHofer)
 
 ### Hi there 👋
 
 just doodeling around with some stuff I am short term interested... 
 
 
-## 🛠️ Languages and Tools
-
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=java,bitbucket,bash,css,debian,docker,eclipse,git,github,html,idea,js,jquery,linux,maven,postgres,spring" />
 </p>
 
 <hr>
