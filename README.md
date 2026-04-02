@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-just doodling around with some stuff I am short term interest... 
+just doodling around with some stuff I am short term interested... 
 
 
 <br>
